@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/clothing/styles.css"],"names":[],"mappings":"AAAA,UACE,UAAY,CACZ,eACF","file":"main.423c48ab.chunk.css","sourcesContent":[".clothing {\r\n  color: black;\r\n  margin-top: 7rem;\r\n}"]}
