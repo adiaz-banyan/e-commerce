@@ -1,0 +1,10 @@
+.clothing {
+  color: black;
+  margin-top: 6rem;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 6rem;
+}
